@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Viktor
 
-<!--
-**vitktor/vitktor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I completed my PhD in Computer Vision and Mathematics in January 2026. My research **focused on Algebraic Methods in 3D Computer Vision**, solving minimal problems efficiently for geometric vision tasks.
 
-Here are some ideas to get you started:
+During my PhD, I was working at the intersection of mathematics, computer vision, and 3D reconstruction, developing fast and reliable solvers for minimal problems (realized by multivariate polynomial systems) arising in Structure-from-Motion pipelines. By applying tools from algebraic geometry and representation theory, I was designing algorithms that were capable of simplifying these minimal problems and connect deep mathematical theory with practical vision applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Technologies & Skills
+- C / C++  
+- Python  
+- OpenCV  
+- ROS 1 / ROS 2  
+- Camera calibration & pose estimation  
+- 3D reconstruction  
+
+---
+
+## 📫 Contact
+- Email: korotynskiy.viktor@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/viktor-korotynskiy/
