@@ -8,8 +8,6 @@ During my PhD, I was working at the intersection of mathematics, computer vision
 
 ## 📫 Contact
 
-You can contact me by email or via LinkedIn:  
-
 [![Email](https://img.shields.io/badge/Email-korotynskiy.viktor@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:korotynskiy.viktor@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Viktor_Korotynskiy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viktor-korotynskiy/)
 
