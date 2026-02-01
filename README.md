@@ -6,16 +6,6 @@ During my PhD, I was working at the intersection of mathematics, computer vision
 
 ---
 
-## 🛠 Technologies & Skills
-- C / C++  
-- Python  
-- OpenCV  
-- ROS 1 / ROS 2  
-- Camera calibration & pose estimation  
-- 3D reconstruction  
-
----
-
 ## 📫 Contact
 - Email: korotynskiy.viktor@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/viktor-korotynskiy/
