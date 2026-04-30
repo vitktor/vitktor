@@ -1,8 +1,10 @@
 # 👋 Hi, I'm Viktor
 
-I completed my PhD in Computer Vision and Mathematics in January 2026. My research topic was **Algebraic Methods in 3D Computer Vision**, focusing on solving minimal problems efficiently for geometric vision tasks.
+🚀 Computer Vision & Math Researcher | Software Dev in C++ & Python | PhD in 3D Computer Vision 🎓
 
-During my PhD, I was working at the intersection of mathematics, computer vision, and 3D reconstruction, developing fast and reliable solvers for minimal problems (realized by multivariate polynomial systems) arising in Structure-from-Motion pipelines. By applying tools from various fields of applied mathematics (such as algebraic geometry, representation theory, etc.), I was designing algorithms that were capable of decomposing these minimal problems into simpler, easier-to-solve pieces. The goal of my PhD was to connect deep mathematical theory and practical computer vision applications, which I accomplished successfully.
+I hold a PhD in 3D Computer Vision. During my PhD, I worked on problems in 3D reconstruction and camera calibration, where the goal was to recover 3D structure and camera motion from images.
+
+More generally, I enjoy analyzing complex problems, finding ways to formulate them mathematically, and turning ideas from theory into practical solutions. I like building efficient, working code (mainly using C++ and Python) and applying my skills to areas like computer vision, robotics, or other fields where strong mathematical reasoning is needed.
 
 ---
 
