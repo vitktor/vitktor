@@ -4,7 +4,7 @@
 
 I hold a PhD in 3D Computer Vision. During my PhD, I worked on problems in 3D reconstruction and camera calibration, where the goal was to recover 3D structure and camera motion from images.
 
-More generally, I enjoy analyzing complex problems, finding ways to formulate them mathematically, and turning ideas from theory into practical solutions. I like building efficient, working code (mainly using C++ and Python) and applying my skills to areas like computer vision, robotics, or other fields where strong mathematical reasoning is needed.
+More generally, I enjoy finding ways to formulate technical problems mathematically, building efficient code and applying my skills to areas like computer vision, robotics, or other fields where strong mathematical reasoning is needed.
 
 ---
 
